@@ -2,7 +2,7 @@
 <h4 style="font-size: 20px;"><strong>Web Developer & Bot Discord Developer</strong></h4>
 
 - 🌏 Live in West Java, Indonesia
-- 🖥️ My portfolio at vvxyexilent.my.id
+- 🖥️ My portfolio at vvxyexilent.biz.id
 - 🧠 I always learning new technologies and programming
 
 ## Skills
