@@ -1,18 +1,20 @@
-<h3 style="font-size: 30px;"><strong>Hi 👋 My name is vvxy</strong></h3>
+<h3 style="font-size: 30px;"><strong>Hi :wave: My name is vvxy</strong></h3>
 <h4 style="font-size: 20px;"><strong>Web Developer & Bot Discord Developer</strong></h4>
 
-- 🌏 Live in West Java, Indonesia
-- 🖥️ My portfolio at vvxyexilent.biz.id
-- 🧠 I always learning new technologies and programming
+- :earth_asia: Live in West Java, Indonesia
+- :desktop: My portfolio at vvxyexilent.my.id
+- :brain: I always learning new technologies and programming
 
 ## Skills
 
 <p style="margin-top: 20px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+<img 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
@@ -22,11 +24,11 @@ https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-origin
 
 ## Programming Level
 
-🆕 New / Junior Developer
+:new: New / Junior Developer
 
 ## Playing
 
-🎮 SA-MP (since 2022)
+:video_game: SA-MP (since 2022)
 
 ## Conclusion
 
