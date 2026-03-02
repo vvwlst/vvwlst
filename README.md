@@ -25,7 +25,7 @@
 
 ## Programming Level
 
-  Junior Developer
+  Junior Developer 🛸
 
 ## Playing
 
