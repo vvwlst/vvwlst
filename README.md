@@ -2,10 +2,10 @@
 <h4 style="font-size: 20px;"><strong>Web Developer & Bot Discord Developer</strong></h4>
 
 - :earth_asia: Live in West Java, Indonesia
-- :desktop: My portfolio at vvxyexilent.biz.id
+- :desktop: My website at vvxyexilent.biz.id
 - :brain: I always learning new technologies and programming
 
-## Skills
+## Skills 🌐
 
 <p style="margin-top: 20px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
@@ -23,14 +23,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" height="40"/>
 </p>
 
-## Programming Level
+## Programming Level 🛠
 
   Junior Developer 🛸
 
-## Playing
+## Playing 🎮
 
-:video_game: SA-MP (since 2022)
+  SA-MP (since 2022)
 
-## Conclusion
+## Description 🚀
 
 I am a <strong>Web Developer & Bot Discord Developer</strong> with curiosity in modern programming languages and technologies. I always keep learning and improving.
