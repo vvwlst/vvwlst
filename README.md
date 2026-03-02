@@ -25,7 +25,7 @@
 
 ## Programming Level
 
-:new: New / Junior Developer
+  Junior Developer
 
 ## Playing
 
