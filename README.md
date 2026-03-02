@@ -2,13 +2,18 @@
 <h4 style="font-size: 20px;"><strong>Web Developer & Bot Discord Developer</strong></h4>
 
 - 🌏 Live in West Java, Indonesia
-- 🖥️ My portfolio at vvxyexilent.biz.id
+- 🖥️ My portfolio at vvxyexilent.my.id
 - 🧠 I always learning new technologies and programming
 
 ## Skills
 
-<p style="margin-top: 20px;">
+<p style="margin-top: 20px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+
+<span style="display: flex; align-items: center; gap: 6px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+<span style="color: #2196F3; font-weight: bold;">HTML</span>
+</span>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
@@ -18,6 +23,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="RAW / Linux" width="40" height="40"/>
+
 </p>
 
 ## Programming Level
