@@ -1,5 +1,5 @@
 <h3 style="font-size: 30px;"><strong>Hi :wave: My name is vvxy</strong></h3>
-<h4 style="font-size: 20px;"><strong>Web Developer & Bot Discord Developer</strong></h4>
+<h4 style="font-size: 20px;"><strong>Web Developer & Bot Discord Developer 🛠</strong></h4>
 
 - :earth_asia: Live in West Java, Indonesia
 - 🌐  My website at vvxyexilent.biz.id
