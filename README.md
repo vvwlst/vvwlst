@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/vvwlst/vvwlst/blob/main/giphy.gif" width="250"/>
+</p>
+
 <h3 style="font-size: 30px;"><strong>Hi :wave: My name is vvxy</strong></h3>
 <h4 style="font-size: 20px;"><strong>Web Developer & Bot Discord Developer 🛠</strong></h4>
 
