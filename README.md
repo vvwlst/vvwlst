@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/vvwlst/vvwlst/blob/main/giphy.gif" width="100%"/>
+<img src="https://github.com/vvwlst/vvwlst/blob/main/giphy.gif" width="95%"/>
 </p>
 
 <h3 style="font-size: 30px;"><strong>Hi :wave: My name is vvxy</strong></h3>
