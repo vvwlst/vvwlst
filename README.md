@@ -45,9 +45,13 @@ I am a <strong>Web Developer & Bot Discord Developer</strong> with curiosity in 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vvwlst&show_icons=true&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vvwlst&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvwlst&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvwlst&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=vvwlst&theme=tokyonight"/>
 </p>
