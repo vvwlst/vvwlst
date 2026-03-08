@@ -30,6 +30,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/lar
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="40" height="40"/>
 </p>
 
+## 💻 Connect with me
+[![Discord](https://img.shields.io/badge/-vvxyzly-7289da?style=flat-square&logo=discord&logoColor=white)
+
 ## Programming Level 🛠
 
   Junior Developer 🛸
