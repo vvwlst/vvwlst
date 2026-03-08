@@ -31,7 +31,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/a
 </p>
 
 ## Connect with me 💻
-[![Discord](https://img.shields.io/badge/-vvxyzly-7289da?style=flat-square&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/-vvxyzly-7289da?style=flat-square&logo=discord&logoColor=white)
 
 ## Programming Level 🛠
 
