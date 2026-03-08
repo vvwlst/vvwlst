@@ -34,13 +34,21 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/a
 
 ## Connect with me 💻
 
-![Discord](https://img.shields.io/badge/-vvxyzly-7289da?style=flat-square&logo=discord&logoColor=white)
+<p>
+<a href="https://discord.com">
+<img src="https://img.shields.io/badge/-vvxyzly-7289da?style=flat-square&logo=discord&logoColor=white"/>
+</a>
 
-![Instagram](https://img.shields.io/badge/-hearttt.idc-E4405F?style=flat-square&logo=instagram&logoColor=white)
+<a href="https://instagram.com/hearttt.idc">
+<img src="https://img.shields.io/badge/-hearttt.idc-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
 
-![Telegram](https://img.shields.io/badge/-vvxyextyy-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+<a href="https://t.me/vvxyextyy">
+<img src="https://img.shields.io/badge/-vvxyextyy-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
+</a>
 
-![Twitch](https://img.shields.io/badge/-vvxyexlntt-9146FF?style=flat-square&logo=twitch&logoColor=white)
+<a href="https://twitch.tv/vvxyexlntt">
+<img src="https://img.shields.io/badge/-vvxyexlntt-9146FF?style=flat-square&logo=twitch&logoColor=white"/>
 
 ## Programming Level 🛠
 
