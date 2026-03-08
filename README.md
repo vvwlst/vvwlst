@@ -33,7 +33,14 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/a
 </p>
 
 ## Connect with me 💻
+
 ![Discord](https://img.shields.io/badge/-vvxyzly-7289da?style=flat-square&logo=discord&logoColor=white)
+
+![Instagram](https://img.shields.io/badge/-hearttt.idc-E4405F?style=flat-square&logo=instagram&logoColor=white)
+
+![Telegram](https://img.shields.io/badge/-vvxyextyy-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+
+![Twitch](https://img.shields.io/badge/-vvxyexlntt-9146FF?style=flat-square&logo=twitch&logoColor=white)
 
 ## Programming Level 🛠
 
