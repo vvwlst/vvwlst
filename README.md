@@ -60,6 +60,6 @@ I am a <strong>Web Developer & Bot Discord Developer</strong> with curiosity in 
 
 ## 📊 GitHub Stats
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YogTandel&theme=rose_pine)](https://github.com/YogTandel)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vvwlst&theme=rose_pine)](https://github.com/vvwlst)
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YogTandel&theme=rose_pine)](https://github.com/YogTandel) [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YogTandel&theme=rose_pine)](https://github.com/YogTandel)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vvwlst&theme=rose_pine)](https://github.com/vvwlst) [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vvwlst&theme=rose_pine)](https://github.com/vvwlst)
