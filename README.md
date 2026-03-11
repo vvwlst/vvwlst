@@ -31,6 +31,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/lar
 <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
+<img 
+src="https://img.shields.io/badge/AntiGravity-Plugin-blue?style=flat-square"/>
 </p>
 
 ## Connect with me 💻
