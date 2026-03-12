@@ -31,8 +31,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/lar
 <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
-<img src="https://img.shields.io/badge/Google-Anti--Gravity-4285F4?style=flat-square&logo=google&logoColor=white"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
 </p>
 
 ## Connect with me 💻
