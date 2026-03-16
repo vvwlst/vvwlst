@@ -36,7 +36,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/a
 
 ## Network 🌐
 
-<img src="https://cdn.simpleicons.org/mikrotik" alt="MikroTik" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/mikrotik" alt="WinBox" width="40" height="40"/>
 
 ## Connect with me 💻
 
