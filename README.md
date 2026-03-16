@@ -34,6 +34,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/a
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
 </p>
 
+## Network 🌐
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" alt="Cisco" width="40" height="40"/>
+
 ## Connect with me 💻
 
 <p>
