@@ -36,7 +36,11 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/a
 
 ## Network 🌐
 
-<img src="https://cdn.simpleicons.org/mikrotik" alt="WinBox" width="40" height="40"/>
+<img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MikroTik-RouterOS-293239?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/WinBox-MikroTik-EA4335?style=flat-square"/>
 
 ## Connect with me 💻
 
