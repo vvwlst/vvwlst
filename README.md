@@ -40,7 +40,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/a
 
 <img src="https://img.shields.io/badge/MikroTik-RouterOS-293239?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/WinBox-MikroTik-EA4335?style=flat-square"/>
+<img src="https://img.shields.io/badge/WinBox-EA4335?style=flat-square"/>
 
 ## Connect with me 💻
 
@@ -60,9 +60,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/a
 <a href="https://twitch.tv/vvxyexlntt">
 <img src="https://img.shields.io/badge/-vvxyexlntt-9146FF?style=flat-square&logo=twitch&logoColor=white"/>
 
-## Programming Level 🛠
+## Programming Level 📈
 
-  Junior Developer 🛸
+  Junior Developer 🛠
 
 ## Description 🚀
 
