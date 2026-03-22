@@ -9,7 +9,7 @@
 - 🌐 My website at vvxyexilent.biz.id
 - :brain: I always learning new technologies and programming
 
-## Skills 🌐
+## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
 
 <p style="margin-top: 20px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
