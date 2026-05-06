@@ -69,7 +69,11 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/a
 I am a <strong>Web Developer & Bot Discord Developer</strong> with curiosity in modern programming languages and technologies. I always keep learning and improving.
 
 ## 📊 GitHub Stats
-
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vvwlst&theme=rose_pine)](https://github.com/vvwlst)
-
-[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vvwlst&theme=rose_pine)](https://github.com/vvwlst) [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vvwlst&theme=rose_pine)](https://github.com/vvwlst)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fiisya&theme=shadow-red)
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fiisya&theme=2077" alt="Profile Details" style="width: 100%; max-width: 500px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fiisya&theme=2077" alt="Repos per Language" style="width: 48%; max-width: 300px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fiisya&theme=2077" alt="Most Commit Language" style="width: 48%; max-width: 300px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fiisya&theme=2077" alt="Stats" style="width: 48%; max-width: 300px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fiisya&theme=2077&utcOffset=8" alt="Productive Time" style="width: 48%; max-width: 300px;">
+</div>
