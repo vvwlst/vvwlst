@@ -6,7 +6,7 @@
 <h4 style="font-size: 20px;"><strong>Web Developer & Bot Discord Developer 🛠</strong></h4>
 
 - :earth_asia: Live in West Java, Indonesia
-- 🌐 My website at vvxyexilent.biz.id
+- 🌐 My website at vvxyexilent.biz.id & whatteverrr.biz.id
 - :brain: I always learning new technologies and programming
 
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
