@@ -66,7 +66,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/a
 
 ## Description 🚀
 
-I am a <strong>Web Developer,Bot Discord Developer & Network Engineer</strong> with curiosity in modern programming languages and technologies. I always keep learning and improving.
+I am a <strong>Web Developer, Bot Discord Developer & Network Engineer</strong> with curiosity in modern programming languages and technologies. I always keep learning and improving.
 
 ## 📊 GitHub Stats
 
